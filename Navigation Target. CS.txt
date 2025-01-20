@@ -1,0 +1,5 @@
+Navigation Target. CS
+using UnityEngine;
+
+public class NavigationTarget : MonoBehaviour {
+}
